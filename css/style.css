@@ -1,0 +1,16 @@
+.sidebar {
+  float:left;
+  width: 240px;
+  padding: 5px;
+  background-color: pink;
+  position: fixed;
+  height: 100%;
+  border: 1px solid black;
+}
+
+p {
+  width: 800px;
+  margin: auto;
+  padding-top: 15px;
+
+}
